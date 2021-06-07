@@ -1,7 +1,8 @@
-Hello and welcome to this blog. Edit the `index.md` file to change this content. All pages on the blog, including this one, use [Markdown](https://guides.github.com/features/mastering-markdown/). You can include images:
+This website serves as a reference point in my journey through machine learning, deep learning, data visualization and dashboard projects. I'll be posting contents regarding queries optimization, web development and how to fine tune machine learning model for production. 
 
-![Image of fast.ai logo](images/logo.png)
+--- 
+### kata
+[HackerRank](https://www.hackerrank.com/byvuong)
 
-## This is a title
+[Kaggle](https://www.kaggle.com/byvuong)
 
-And you can include links, like this [link to fast.ai](https://www.fast.ai). Posts will appear after this file. 
